@@ -44,6 +44,6 @@ git fetch upstream
 git merge upstream/master
 ```
 
-[gitlab fork 同步操作1](C9205A2EE5C16401D7F241886AB32957.png)
+![gitlab fork 同步操作1](C9205A2EE5C16401D7F241886AB32957.png)
 
-[gitlab fork 同步操作2](427CC0DD13238DE15A66052CC221B750.png)
+![gitlab fork 同步操作2](427CC0DD13238DE15A66052CC221B750.png)
