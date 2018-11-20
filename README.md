@@ -49,3 +49,11 @@ PreferredAuthentications publickey
 IndentityFile ~/.ssh/id_rsa_github
 
 ```
+
+## git 协同开发
+
+[git协同开发](git-operation.md)
+
+## gitlab fork 同步
+
+[gitlab fork 同步操作](gitlab-operation.md)
