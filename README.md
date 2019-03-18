@@ -25,7 +25,7 @@ git config user.email # 13539886724@163.com
 ```shell
 ssh-keygen -t rsa -C "you_email@example.com" -f id_rsa_github
 
-# 如果是自定义密钥的文件名，需添加如下操作 
+# 如果是自定义密钥的文件名，需添加如下操作
 ssh-add ~/.ssh/id_rsa_github
 
 ```
@@ -53,8 +53,8 @@ IndentityFile ~/.ssh/id_rsa_github
 
 ## git 协同开发
 
-[git协同开发](git-operation.md)
+[git协同开发](/git-example/git-operation.md)
 
 ## gitlab fork 同步
 
-[gitlab fork 同步操作](gitlab-operation.md)
+[gitlab fork 同步操作](/git-example/gitlab-operation.md)
