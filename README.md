@@ -1,4 +1,5 @@
 # git-demo
+
 git 测试项目
 
 ## 设置git全局的用户名和邮箱
@@ -33,13 +34,13 @@ ssh-add ~/.ssh/id_rsa_github
 
 在~/.ssh/文件夹下新增config文件，设置不同git服务器的ssh
 
-```shell 
+```shell
 touch config # 新增config文件
 
 vim config # 编辑config文件
 ```
 
-```
+```text
 # config 文件
 
 # github

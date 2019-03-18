@@ -22,7 +22,7 @@ git brance develop
 
 提交develop分支
 
-```
+```shell
 git push origin develop
 ```
 
@@ -81,7 +81,9 @@ git push origin develop
 ## 管理员A 测试、合并
 
 创建一个新的测试分支，作为pull分支
+
 ```shell
+
 # 先进入管理员A的develop分支
 git checkout develop
 # 从develop分支中分出一个创建evan880-develop测试分支
@@ -97,7 +99,3 @@ git merge --no-ff evan880-develop
 
 git push origin develop
 ```
-
-
-
-
